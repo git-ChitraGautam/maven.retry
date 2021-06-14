@@ -28,6 +28,8 @@
      </methods>
      
      </class>
+     
+      <class name = "maven.retry.Assign"/>  
     
           
      
