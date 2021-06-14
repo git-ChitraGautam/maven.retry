@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="9" total="10" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation_Functional" duration-ms="101678" started-at="2021-06-14T15:14:29 IST" finished-at="2021-06-14T15:16:10 IST">
+    <groups>
+    </groups>
+    <test name="Functional" duration-ms="101678" started-at="2021-06-14T15:14:29 IST" finished-at="2021-06-14T15:16:10 IST">
+      <class name="maven.retry.Index_Page">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:maven.retry.Index_Page@74a10858]" name="beforeTest" is-config="true" duration-ms="96030" started-at="2021-06-14T15:14:29 IST" finished-at="2021-06-14T15:16:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Scroll_Vertical()[pri:0, instance:maven.retry.Index_Page@74a10858]" name="Scroll_Vertical" duration-ms="5020" started-at="2021-06-14T15:16:05 IST" finished-at="2021-06-14T15:16:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scroll_Vertical -->
+      </class> <!-- maven.retry.Index_Page -->
+    </test> <!-- Functional -->
+  </suite> <!-- Automation_Functional -->
+</testng-results>

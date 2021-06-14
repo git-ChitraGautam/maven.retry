@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="maven.retry.Assegnment_2">
+        <methods>
+          <include name="handleTable"/>
+          <include name="switchToConfirmAccept"/>
+          <include name="switchToAlert"/>
+          <include name="openTab"/>
+          <include name="before_assigment_2_test"/>
+          <include name="switchToConfirmCancel"/>
+          <include name="checkbox"/>
+          <include name="radiobutton"/>
+        </methods>
+      </class> <!-- maven.retry.Assegnment_2 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
